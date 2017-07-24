@@ -1,0 +1,2 @@
+2017-07-24 16:10:32,793 INFO 30592 [egg:logger] init all loggers with options: {"dir":"/home/ken/Github/egg-example/logs/egg-example","encoding":"utf8","env":"unittest","level":"INFO","consoleLevel":"WARN","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
+2017-07-24 16:10:32,826 INFO 30592 [egg-watcher:agent] watcher start success

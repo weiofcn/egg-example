@@ -1,0 +1,224 @@
+{
+  "keys": "/home/ken/Github/egg-example/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/home/ken/Github/egg-example/config/config.default.js",
+    "mapping": {
+      ".tpl": "/home/ken/Github/egg-example/config/config.default.js"
+    },
+    "root": "/home/ken/Github/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/home/ken/Github/egg-example/node_modules/egg-view/config/config.default.js",
+    "defaultExtension": "/home/ken/Github/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "news": {
+    "pageSize": "/home/ken/Github/egg-example/config/config.default.js",
+    "serverUrl": "/home/ken/Github/egg-example/config/config.default.js"
+  },
+  "middleware": "/home/ken/Github/egg-example/config/config.default.js",
+  "robot": {
+    "ua": "/home/ken/Github/egg-example/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/home/ken/Github/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/home/ken/Github/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/home/ken/Github/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/home/ken/Github/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/home/ken/Github/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/home/ken/Github/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/home/ken/Github/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/home/ken/Github/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/home/ken/Github/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/home/ken/Github/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/home/ken/Github/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/home/ken/Github/egg-example/node_modules/egg-watcher/config/config.unittest.js",
+    "eventSources": {
+      "default": "/home/ken/Github/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/home/ken/Github/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/home/ken/Github/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/home/ken/Github/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/home/ken/Github/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/home/ken/Github/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/home/ken/Github/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/home/ken/Github/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/home/ken/Github/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/home/ken/Github/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/home/ken/Github/egg-example/node_modules/egg-multipart/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js",
+      "maxAge": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js",
+      "policy": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/home/ken/Github/egg-example/node_modules/egg-security/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/home/ken/Github/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/home/ken/Github/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/home/ken/Github/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/home/ken/Github/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/home/ken/Github/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/home/ken/Github/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/home/ken/Github/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/home/ken/Github/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/home/ken/Github/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/home/ken/Github/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/home/ken/Github/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/home/ken/Github/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/home/ken/Github/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/home/ken/Github/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/home/ken/Github/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/home/ken/Github/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/home/ken/Github/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/home/ken/Github/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/home/ken/Github/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/home/ken/Github/egg-example/node_modules/egg-view-nunjucks/config/config.default.js"
+  },
+  "env": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "main": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+      "test": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "author": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+      "egg-mock": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/home/ken/Github/egg-example/node_modules/egg/config/config.unittest.js",
+    "disableConsoleAfterReady": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/home/ken/Github/egg-example/node_modules/egg/config/config.unittest.js",
+    "appLogName": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "coreMiddleware": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/home/ken/Github/egg-example/node_modules/egg/config/config.default.js"
+}
